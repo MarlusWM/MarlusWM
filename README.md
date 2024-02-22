@@ -1,24 +1,25 @@
 ### Hi there 👋
 
-#### Sou desenvolvedor Front End, especialista em Web.
+#### :sparkles:Sou desenvolvedor Front End, especialista em Web.
 
-#### Estou desenvolvendo com as linguagens:
+#### :fire:Principais linguagens:
 - `Javascript`
 - `ReactJS | Vite`
 
-#### Além de desenvolver, continuo estudando as linguagens e pretendo me aprofundar em:
+#### :memo:Estudando:
 - `React Native`
 - `Google Firebase`
 - `UI/UX`
+- `Figma`
 
 #### Estudo pelas plataformas:
 - [Rocketseat](https://www.rocketseat.com.br/)
 - [Danki Code](https://cursos.dankicode.com/)
 - [Hora de Codar](https://horadecodar.com.br/)
 
-### Para contato:
+### :pushpin:Para contato:
 [Linkedin](https://www.linkedin.com/in/marlus-weber-midginski/)
 ou
-Email ( marluswm7@gmail.com )
+Email marluswm7@gmail.com
 
-##Thanks for the visit
+##:technologist:Thanks for the visit
