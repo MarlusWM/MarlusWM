@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 #### Sou desenvolvedor Front End, especialista em Web.
 
 #### Estou desenvolvendo com as linguagens:
@@ -20,7 +19,6 @@
 ### Para contato:
 [Linkedin](https://www.linkedin.com/in/marlus-weber-midginski/)
 ou
-[Email](marluswm7@gmail.com)
+Email ( marluswm7@gmail.com )
 
 ##Thanks for the visit
--->
