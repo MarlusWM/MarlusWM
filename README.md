@@ -1,16 +1,26 @@
 ### Hi there 👋
 
 <!--
-**MarlusWM/MarlusWM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sou desenvolvedor Front End, especialista em Web.
 
-Here are some ideas to get you started:
+#### Estou desenvolvendo com as linguagens:
+- Javascript
+- ReactJS | Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Além de desenvolver, continuo estudando as linguagens e pretendo me aprofundar em:
+- React Native
+- Firebase
+- UI/UX
+
+#### Estudo pelas plataformas:
+- [Rocketseat](https://www.rocketseat.com.br/)
+- [Danki Code](https://cursos.dankicode.com/)
+- [Hora de Codar](https://horadecodar.com.br/)
+
+### Para contato:
+[Linkedin](https://www.linkedin.com/in/marlus-weber-midginski/)
+ou
+[Email](marluswm7@gmail.com)
+
+##Thanks for the visit
 -->
