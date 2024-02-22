@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### :sparkles:Sou desenvolvedor Front End, especialista em Web.
+#### :white_check_mark:Sou desenvolvedor Front End, especialista em Web.
 
 #### :fire:Principais linguagens:
 - `Javascript`
