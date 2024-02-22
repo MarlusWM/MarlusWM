@@ -3,13 +3,13 @@
 #### Sou desenvolvedor Front End, especialista em Web.
 
 #### Estou desenvolvendo com as linguagens:
-- Javascript
-- ReactJS | Vite
+- `Javascript`
+- `ReactJS | Vite`
 
 #### Além de desenvolver, continuo estudando as linguagens e pretendo me aprofundar em:
-- React Native
-- Firebase
-- UI/UX
+- `React Native`
+- `Google Firebase`
+- `UI/UX`
 
 #### Estudo pelas plataformas:
 - [Rocketseat](https://www.rocketseat.com.br/)
